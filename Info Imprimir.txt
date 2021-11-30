@@ -1,0 +1,22 @@
+1 Pescador tamany real mirant a la dreta, i mes agrandat (un poc)
+1 Pescador tamany real mirant a la esquerra, i mes agrandat (un poc)
+1 Pescador tamany petit (amb només 4 articulacions) mirant a la dreta
+1 Pescador tamany petit (amb només 4 articulacions) mirant a la esquerra
+-------------------------------------------------------------------------
+1 vaixell mirant a la dreta
+1 vaixell mirant a la esquerra
+1 part de darrere del vaixell
+-------------------------------------------------------------------------
+2 de tentacles de calamar mirant a la dreta
+2 de tentacles de calamar mirant a la esquerra
+-------------------------------------------------------------------------
+1 ovni
+-------------------------------------------------------------------------
+3 Ones
+-------------------------------------------------------------------------
+
+Pescador Color: Groc xubasquero, calçons blaus, manigues verdes, botes taronges
+
+Calamar Colors: Lila fot, lila fluix i rosita
+
+Vaixell: beix oscur, bei i retxes vermelles
